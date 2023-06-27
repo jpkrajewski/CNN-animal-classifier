@@ -8,13 +8,13 @@ The Animal Classification task involves training a Convolutional Neural Network 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jpkrajewski/ANN-banking-customer-churn.git
+   git clone https://github.com/jpkrajewski/CNN-animal-classifier.git
    ```
 
 2. Run Docker-Compose
 
    ```bash
-   cd ANN-banking-customer-churn; docker compose up --build
+   cd CNN-animal-classifier; docker compose up --build
    ```
 
 3. Go to **localhost:8000**
