@@ -2,6 +2,9 @@
 
 The Animal Classification task involves training a Convolutional Neural Network (CNN) model to classify images of animals into different categories. CNNs are particularly well-suited for image classification tasks due to their ability to capture spatial hierarchies and extract relevant features from images.
 
+## Schema
+
+![89175cnn_banner](https://github.com/jpkrajewski/CNN-animal-classifier/assets/95274389/787dfcdf-a172-41e0-85dc-833b8166a04d)
 
 ## Installation
 
